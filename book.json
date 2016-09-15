@@ -1,5 +1,5 @@
 {
-    "plugins": ["theme-official","youtube","mathjax","comments","fontsettings"],
+    "plugins": ["theme-api","youtube","mathjax","comments","fontsettings"],
     "pluginsConfig": {
         "fontsettings": {
             "theme": "night",
@@ -9,13 +9,13 @@
         "theme-api": {
             "languages": [
                 {
-                    "lang": "js",
-                    "name": "JavaScript",
+                    "lang": "bash",
+                    "name": "Bash",
                     "default": true
                 },
                 {
-                    "lang": "go",
-                    "name": "Go"
+                    "lang": "js",
+                    "name": "JavaScript"
                 }
             ]
         }

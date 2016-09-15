@@ -2,7 +2,7 @@
 
 This is just to help with the transition between what we had versus what we will have :)
 
-| <h2>Repository</h2> <br> <h2> components</h2> | <h1><b>SVN</b></h1> | <h1><b>GitLab</b></h1> |
+| <h2>Repository <br> components</h2> | <h1><b>SVN</b></h1> | <h1><b>GitLab</b></h1> |
 | -- | -- | -- |
 | folder | <b>trunk</b> | <b>master</b> |
 | folder | <b>branches</b> | <b>branches</b> |

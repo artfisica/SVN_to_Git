@@ -1,5 +1,5 @@
-# ATLAS software installation
+# SVN to Git(Lab)
 
-This is the book to be used for the installation of ATLAS software into CVMFS and GRID sites
+This document show steps and examples on the migration of software from the SVN repositories to GitLab (in general Git) repositories.
 
-![screenshot 01](https://twiki.cern.ch/twiki/pub/AtlasComputing/CVMFSInstallationInstructions/installation_tutorial_01.png)
+![SVN to Git](https://www.gitbook.com/content/book/artfisica/svn-gitlab-migration-cern-infrastructure/SVN_to_Git.png)

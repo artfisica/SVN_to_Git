@@ -2,7 +2,6 @@
 
 This is just to help with the transition between what we had versus what we will have :)
 
-<CENTER>
 | <h2>Repository components</h2> | <h1><b>SVN</b></h1> | <h1><b>GitLab</b></h1> |
 | -- | -- | -- |
 | folder | <b>trunk</b> | <b>master</b> |
@@ -15,4 +14,3 @@ This is just to help with the transition between what we had versus what we will
 | -- | -- | -- |
 | folder / complex | <b>packages</b> | <b>projects</b> |
 | -- | -- | -- |
-</CENTER>

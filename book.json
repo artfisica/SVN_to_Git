@@ -1,5 +1,5 @@
 {
-    "plugins": ["theme-api","youtube","mathjax","comments","fontsettings"],
+    "plugins": ["theme-official","youtube","mathjax","comments","fontsettings"],
     "pluginsConfig": {
         "fontsettings": {
             "theme": "night",

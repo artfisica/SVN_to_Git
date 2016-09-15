@@ -1,10 +1,23 @@
 {
-    "plugins": ["theme-official","youtube","mathjax","comments"],
+    "plugins": ["theme-official","youtube","mathjax","comments","fontSettings"],
     "pluginsConfig": {
         "fontSettings": {
             "theme": "night",
             "family": "sans",
             "size": 2
+        }
+        "theme-api": {
+            "languages": [
+                {
+                    "lang": "js",
+                    "name": "JavaScript",
+                    "default": true
+                },
+                {
+                    "lang": "go",
+                    "name": "Go"
+                }
+            ]
         }
     },
     "links": {

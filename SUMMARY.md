@@ -1,3 +1,3 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Decision Tree](chapter1.md)

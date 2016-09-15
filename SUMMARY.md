@@ -5,3 +5,4 @@
   * [Do you need to migrate to GitLab?](decision_tree/question02.md)
 * [My GitLab status](GitLab_account.md)
 * [Create a GitLab repository](create_GitLab_repo.md)
+* [SVn Vs GitLab](SVN_vs_Git.md)
